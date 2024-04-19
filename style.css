@@ -24,6 +24,7 @@ aside.sidebar {
 	background-color: #8DECB4;
 	align-items: start;
 	justify-content: start;
+	max-width: 400px;
 	
 }
 
